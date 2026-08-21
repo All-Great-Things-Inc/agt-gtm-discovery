@@ -1,0 +1,8 @@
+interface:
+  display_name: "AGT GTM Discovery"
+  short_description: "Pressure-test GTM plans and surface dependencies"
+  brand_color: "#5750E8"
+  default_prompt: "Use $agt-gtm-discovery to interview me one question at a time and produce a decision log, unknowns list, system inventory, and prioritized 30/90-day plan."
+
+policy:
+  allow_implicit_invocation: false
