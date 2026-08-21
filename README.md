@@ -31,3 +31,9 @@ take external actions unless separately authorized.
 - Do not provide passwords, API keys, credentials, or unnecessary personal data.
 - Do not place confidential client materials in this repository.
 - Use client-owned accounts and approved systems for production work.
+
+## License
+
+Copyright (c) 2026 All Great Things Inc. See [LICENSE](LICENSE).
+You may install and use this skill. You may not sell, rebrand, or republish
+it as your own product without written permission.

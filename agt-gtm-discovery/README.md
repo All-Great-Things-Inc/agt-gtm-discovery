@@ -17,3 +17,5 @@ npx skills add https://github.com/All-Great-Things-Inc/agt-gtm-discovery --skill
 Invoke the skill explicitly with `$agt-gtm-discovery`, then provide the relevant roadmap, meeting summary, proposal, transcript, or workspace documents.
 
 Use an approved AI environment for confidential business information. Do not provide passwords, API keys, or unnecessary personal data.
+
+See the repository [LICENSE](../LICENSE). You may install and use this skill. You may not sell, rebrand, or republish it as your own product without written permission.
