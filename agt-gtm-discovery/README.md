@@ -6,6 +6,8 @@ It asks one question at a time, provides a recommended answer, distinguishes con
 
 ## Install
 
+This repository is public. Install the skill with:
+
 ```bash
 npx skills add https://github.com/All-Great-Things-Inc/agt-gtm-discovery --skill agt-gtm-discovery
 ```

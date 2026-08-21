@@ -11,7 +11,7 @@ decision log with owners, dependencies, system inventory, and prioritized
 
 ## Install
 
-This repository is private. Grant the user access before installing it:
+This repository is public. Install the skill with:
 
 ```bash
 npx skills add https://github.com/All-Great-Things-Inc/agt-gtm-discovery --skill agt-gtm-discovery
